@@ -38,9 +38,4 @@ The project compiles data across several sheets with the following metrics:
 - **Data Source**: Microsoft Excel
 - **Visualization Tools**: The dashboard likely includes embedded charts and tables for quick insights.
 
-## License
-[Specify license here, e.g., MIT License]
 
----
-
- &#8203;:contentReference[oaicite:0]{index=0}&#8203;
