@@ -1,13 +1,20 @@
-The project appears to be a sales data dashboard with several sheets providing insights on different metrics:
+## The project appears to be a sales data dashboard with several sheets providing insights on different metrics:
 
-Sales by Category: Breaks down sales by product category.
-Profit Gained: Summarizes profits by year and product category.
-Monthly Sales: Tracks sales volume per month.
-Top 5 Customers: Lists top customers by profit contribution.
-Sales by State: Displays sales totals per state.
-Sales Data: Contains raw transactional data with customer, product, sales, quantity, and profit information.
-Customer Count: Likely shows unique customer counts, though details are limited.
-Dashboard: Potentially a summary sheet for high-level visualization.
+1.Sales by Category: Breaks down sales by product category.
+
+2. Profit Gained: Summarizes profits by year and product category.
+
+3. Monthly Sales: Tracks sales volume per month.
+
+4. Top 5 Customers: Lists top customers by profit contribution.
+
+5. Sales by State: Displays sales totals per state.
+
+6. Sales Data: Contains raw transactional data with customer, product, sales, quantity, and profit information.
+
+7. Customer Count: Likely shows unique customer counts, though details are limited.
+
+8. Dashboard: Potentially a summary sheet for high-level visualization.
 
 
 # Sales Data Dashboard
